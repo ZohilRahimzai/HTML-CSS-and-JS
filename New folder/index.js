@@ -9,10 +9,13 @@ function btnClicked() {
      Myname.innerText = " Info Found!!!";
      Sdiv.innerHTML = `
     
-    
         <img id="img3" src="Z.jpg">
+        <h1 id="headingone"> Zohil Rahimzai </h1>
+        <h3 id="headingthree"> Software Engineer | Web developer </h3>
     
-    
+        <img id="img11" src="11.png">
+
+        <button id="btn2">MY Github and X</button>
     
     `
 

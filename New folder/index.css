@@ -216,3 +216,36 @@ flex-direction: row;
 
 }
 
+
+#btn3 {
+    
+    background-color: rgb(180, 176, 176);
+    padding: 3px 8px;
+    border-radius: 10px;
+
+    margin-left: 750px;
+    margin-top: -100px;
+    color: rgb(0, 0, 0);
+
+    display: inline;
+
+    width: 125px;
+
+}
+
+#btn4 {
+
+    background-color: rgb(180, 176, 176);
+    padding: 3px 8px;
+    border-radius: 10px;
+
+    margin-left: 750px;
+    margin-top: -190px;
+    color: rgb(0, 0, 0);
+
+    display: inline;
+
+    width: 125px;
+
+}
+

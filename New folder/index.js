@@ -25,7 +25,10 @@ function btnClicked() {
 function btn2Clicked() {
 
 
-    Btn2.innerHTML= ``
+    Btn2.innerHTML= `
+    
+    
+    `
 
 
 }

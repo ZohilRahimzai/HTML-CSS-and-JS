@@ -1,0 +1,62 @@
+#img1   {
+
+
+    width: 400px;
+    margin-left: 450px;
+    margin-right: 400px;
+    margin-top: -20px;
+    text-align: center;
+    display: flex;
+
+flex-direction: row;
+
+}
+
+
+
+
+#myname  {
+
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(0, 0, 0);
+    margin-top: -40px;
+    margin-left:  570px;
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    font-size: 20px;
+}
+
+
+
+
+
+#img2 {
+
+    width: 280px;
+    margin-left: 509px;
+    margin-right: 400px;
+    margin-top: -280px;
+    text-align: center;
+    padding-top: -800px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#butone {
+
+    background-color: rgb(255, 255, 255);
+    padding: 3px 8px;
+    border-radius: 10px;
+
+    margin-left: 617px;
+    margin-top: 8px;
+    color: rgb(0, 47, 255);
+    
+     
+    
+
+
+}

@@ -7,6 +7,14 @@ function btnClicked() {
 
      Butone.innerText = "Clicked";
      Myname.innerText = " Info Found!!!";
+     Sdiv.innerHTML = `
+    
+    
+        <img id="img3" src="Z.jpg">
+    
+    
+    
+    `
 
     
 }

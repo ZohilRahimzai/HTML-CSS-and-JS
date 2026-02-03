@@ -154,5 +154,15 @@ flex-direction: row;
 
 }
 
+#tdiv {
+
+
+
+    display: flex;
+    flex-direction: column;
+
+
+}
+
 
 

@@ -1,7 +1,7 @@
 let Butone = document.getElementById("butone");
 let Myname = document.getElementById("myname");
 let Sdiv = document.getElementById("sdiv");
-let Btn2 = document.getElementById("btn2");
+let Btn2 = document.getElementById("tdiv");
 
 
 function btnClicked() {

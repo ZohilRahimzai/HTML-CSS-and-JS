@@ -1,6 +1,7 @@
 let Butone = document.getElementById("butone");
 let Myname = document.getElementById("myname");
 let Sdiv = document.getElementById("sdiv");
+let Btn2 = document.getElementById("tdiv");
 
 
 function btnClicked() {
@@ -15,9 +16,19 @@ function btnClicked() {
     
         <img id="img11" src="11.png">
 
-        <button id="btn2">MY Github and X</button>
+        <button id="btn2" onclick="btn2Clicked()" >MY Github and X</button>
+    
+    `
+ 
+}
+
+function btn2Clicked() {
+
+
+    Btn2.innerHTML= `
+    
     
     `
 
-    
+
 }

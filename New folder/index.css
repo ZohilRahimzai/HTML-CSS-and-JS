@@ -55,8 +55,18 @@ flex-direction: row;
     margin-top: 8px;
     color: rgb(0, 47, 255);
     
-     
     
+}
 
+#img3 {
+
+    width: 400px;
+
+    margin-left: 450px;
+    margin-right: 400px;
+    margin-top: 160px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
 
 }

@@ -124,3 +124,14 @@ flex-direction: row;
 
 
 }
+
+
+
+#btn2 {
+
+    padding: 6px 10px;
+    border-radius: 20px;
+    background-color: rgba(196, 190, 190, 0.432);
+
+
+}

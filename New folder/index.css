@@ -58,6 +58,15 @@ flex-direction: row;
     
 }
 
+#sdiv {
+
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
 #img3 {
 
     width: 400px;
@@ -129,9 +138,21 @@ flex-direction: row;
 
 #btn2 {
 
-    padding: 6px 10px;
-    border-radius: 20px;
-    background-color: rgba(196, 190, 190, 0.432);
+    background-color: rgb(180, 176, 176);
+    padding: 3px 8px;
+    border-radius: 10px;
+
+    margin-left: 672px;
+    margin-top: -20px;
+    color: rgb(0, 0, 0);
+
+    display: inline;
+
+    width: 125px;
+
 
 
 }
+
+
+
